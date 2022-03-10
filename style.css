@@ -78,7 +78,7 @@ a:hover {
 
 footer div a {
     display: block;
-    background: #F4FAFD;
+    background: #FFFAEB;
     box-shadow: 1px 1px 3px #b0bec5;
     padding: 0.5rem 1rem;
     border-radius: 1rem;
@@ -125,4 +125,3 @@ footer div#controles input[type="range"] {
     width: 4rem;
     margin: 0 0.5rem;
 }
-
